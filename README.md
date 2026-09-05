@@ -25,8 +25,7 @@ A comprehensive collection of fundamental Data Structures implemented from scrat
 Clone the repository and compile any implementation with your preferred C++ compiler:
 
 ```bash
-git clone [https://github.com/mohmmed200777/Data-Structure.git](https://github.com/mohmmed200777/Data-Structure.git)
-cd Data-Structure
+git clone https://github.com/mohmmed200777/Data-Structure.gitcd Data-Structure
 g++ -std=c++17 FolderName/*.cpp -o main
 ./main
 ```
